@@ -11,7 +11,6 @@ Table of Contents
 Career Growth Guide
 -------------------
 
--	[Front-end Development Engineer]()
--	[PHP Development Engineer]()
--	[Android Development Engineer]()
--	[JAVA Development Engineer]()
+Coding Style Guide
+-------------------
+-   [vue-style-guide](https://github.com/higrowth/awesome-code/blob/master/vue-style-guide.md)

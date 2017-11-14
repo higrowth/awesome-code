@@ -1,7 +1,8 @@
 ---
 type: style-guide
-from: [vue style-guide](https://github.com/vuejs/cn.vuejs.org/blob/master/src/v2/style-guide/index.md)
 ---
+
+From: [vue style guide](https://github.com/vuejs/cn.vuejs.org/blob/master/src/v2/style-guide/index.md)
 
 # 风格指南 <sup class="beta">beta</sup>
 
